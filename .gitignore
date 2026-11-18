@@ -1,0 +1,25 @@
+# Compiled Java output
+*.class
+
+# Temporary files
+*.tmp
+
+# CSV data files (may contain personal data)
+*.csv
+
+# Word documents (academic papers - keep private)
+*.docx
+
+# Markdown files
+*.md
+
+# IDE/editor files
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+
+# OS files
+Thumbs.db
+.DS_Store
